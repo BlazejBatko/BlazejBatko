@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlazejBatko
 - 👀 I’m interested in web developement and creative UI designs
 - 🌱 I’m currently learning advanced react & redux
-- 📫 How to reach me https://blazejbatko.netlify.app
+- 📫 How to reach me batkoblazej.pl
 
 <!---
 BlazejBatko/BlazejBatko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
